@@ -1,13 +1,12 @@
-# Brain_Tumour_detection_using_MRI_Scans
+#  DNA-Sequence-Classifier 
 ---
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
-[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/DNA-Sequence-Classifier )
+[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/ DNA-Sequence-Classifier )
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+    <img src="images/logo.png" alt="Logo" >
   </a>
   <!-- INTRODUCTION -->
 
