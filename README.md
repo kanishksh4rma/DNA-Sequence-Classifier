@@ -35,11 +35,12 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Libraries used : 
 
 ```
+
+  * keras
+  * Tensorflow
+  * sklearn
   * pandas
   * numpy
-  * matplotlib
-  * keras
-  * sklearn
   
 ```
 ---
@@ -52,17 +53,13 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Directory Structure
 
 ```sh
-├── Coronavirus_Detection_using_Chest_X_ray.ipynb
+├── DNA Sequencing and applying Classifier.ipynb
+├── dna_sequencing_and_applying_classifier.py
+├── dog_data.txt
+├── human_data.txt
 ├── LICENSE
 ├── README.md
-└── screenshots
-    ├── acc.png
-    ├── accuracy.png
-    ├── classification_report.png
-    ├── demo.png
-    ├── loss.png
-    ├── specs.png
-    └── test_predict_plots.png
+└── requirements.txt
 ```
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -74,20 +71,21 @@ To get a local copy up and running follow these simple example steps.
 
 Create a virtualenv. (optional)
   ```sh
-  python3 -m venv braintumour
-  source braintumour/bin/activate
+  python3 -m venv DNA-Clf
+  source DNA-Clf/bin/activate
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans/
+   git clone https://github.com/kanishksh4rma/DNA-Sequence-Classifier.git
    ```
 2. Install required libraries
    ```sh
    pip install -r requirements.txt
    ```
+   
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -120,5 +118,5 @@ See [LICENSE](LICENSE) file.
 
 ---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/DNA-Sequence-Classifier)
 
