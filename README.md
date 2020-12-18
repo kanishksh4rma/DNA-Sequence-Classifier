@@ -12,9 +12,9 @@
 
 ## Objective
   
-Brain tumors are the consequence of abnormal growths and uncontrolled cells division in the brain. They can lead to death if they are not detected early and accurately. Some types of brain tumor such as Meningioma, Glioma, and Pituitary tumors are more common than the others.
+DNA, abbreviation of deoxyribonucleic acid, organic chemical of complex molecular structure that is found in all prokaryotic and eukaryotic cells and in many viruses. DNA codes genetic information for the transmission of inherited traits. Every species has a specific genes encoded with DNA.
 
-In this project, I designed & built an automatic brain tumor segmentation technique based on Convolutional Neural Network. We have used three MRI views of human brain. MRI scan is used because it is less harmful and more accurate than CT brain scan.
+In this project, I have designed and developed a machine learning model for DNA sequence classiﬁcation based on spectral sequence representation. 
   
 <!-- ABOUT THE PROJECT -->
 ## About The Project
