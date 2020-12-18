@@ -12,7 +12,7 @@
 
 ## Objective
   
-DNA, abbreviation of deoxyribonucleic acid, organic chemical of complex molecular structure that is found in all prokaryotic and eukaryotic cells and in many viruses. DNA codes genetic information for the transmission of inherited traits. Every species has a specific genes encoded with DNA.
+DNA, abbreviation of deoxyribonucleic acid, organic chemical of complex molecular structure that is found in all prokaryotic and eukaryotic cells and in many viruses. DNA codes genetic information for the transmission of inherited traits. Every species has a specific genes encoded.
 
 In this project, I have designed and developed a machine learning model for DNA sequence classiﬁcation based on spectral sequence representation. 
   
