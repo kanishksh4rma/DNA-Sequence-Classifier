@@ -9,12 +9,7 @@
     <img src="images/logo.gif" alt="Logo" >
   </a>
   <!-- INTRODUCTION -->
-## Objective
-  
-DNA, abbreviation of deoxyribonucleic acid, organic chemical of complex molecular structure that is found in all prokaryotic and eukaryotic cells and in many viruses. DNA codes genetic information for the transmission of inherited traits. Every species has a specific genes encoded.
 
-In this project, I have designed and developed a machine learning model for DNA sequence classiﬁcation based on spectral sequence representation. 
-  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -22,11 +17,9 @@ In this project, I have designed and developed a machine learning model for DNA 
     <img src="images/logo.png" width="80" height="80">
   </a>
 
-Brain tumors are the consequence of abnormal growths and uncontrolled cells division in the brain. They can lead to death if they are not detected early and accurately. Some types of brain tumor such as Meningioma, Glioma, and Pituitary tumors are more common than the others.
+DNA, abbreviation of deoxyribonucleic acid, organic chemical of complex molecular structure that is found in all prokaryotic and eukaryotic cells and in many viruses. DNA codes genetic information for the transmission of inherited traits. Every species has a specific genes encoded in their DNA.
 
-In this project, I designed & built an automatic brain tumor segmentation technique based on Convolutional Neural Network. We have used three MRI views of human brain. MRI scan is used because it is less harmful and more accurate than CT brain scan.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+In this project, I have designed and developed a machine learning model for DNA sequence classiﬁcation based on spectral sequence representation. 
 
 ---
 
@@ -62,8 +55,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is an example of how you may set up your project locally.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
