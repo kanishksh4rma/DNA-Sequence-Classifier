@@ -9,7 +9,6 @@
     <img src="images/logo.gif" alt="Logo" >
   </a>
   <!-- INTRODUCTION -->
-
 ## Objective
   
 DNA, abbreviation of deoxyribonucleic acid, organic chemical of complex molecular structure that is found in all prokaryotic and eukaryotic cells and in many viruses. DNA codes genetic information for the transmission of inherited traits. Every species has a specific genes encoded.
